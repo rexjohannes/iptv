@@ -1,0 +1,1113 @@
+#EXTM3U
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",3-SAT
+http://tvog.eu:8080/ibrahim/08.03.2020/136607?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:0,3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name=3Sat tvg-id="3sat.de" tvg-logo="http://logos.zattic.com/images/channels/logos/02257e2400c10df8cbab/black/84x48.png" group-title="Deutschland",3Sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",3SAT 4K+
+http://panel.restpremium.cf:8080/serverbr/0392332904/72703?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",3Sat DE
+http://195.181.161.119:80/k6CFPu0MKu/7xk0jQLl3A/345?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",3sat FHD
+http://ip.sltv.be:8080/hasan1/1hasan/173451?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",3SAT HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/80001.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",3sat HD
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/310?checkedby:iptvcat.com
+#EXTINF:-1,3Sat HD DE
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67440
+#EXTINF:-1 tvg-name="3sat IPTV" tvg-id="3sat.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat IPTV
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD ALPHA
+http://panel.restpremium.cf:8080/serverbr/0392332904/72700?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD ALPHA
+http://tvpremiumhd.club/lista-gratuita/224502/on/live.php?id=livestreams.br.de/i/bralpha_germany@119899/master.ts&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD alpha HD
+http://tvog.eu:8080/ibrahim/08.03.2020/136553?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/409?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD HD
+http://rv.imax.re:80/5124037472/1572081885/83199?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD HD
+http://rv.imax.re:80/5124037472/1572081885/81625?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" tvg-country="DE" tvg-url="" group-title="",ARD HD (720p)
+https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Das_Erste_HD_Logo.svg/1280px-Das_Erste_HD_Logo.svg.png" tvg-country="DE" tvg-url="" group-title="",ARD HD (720p)
+https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" tvg-country="DE" tvg-url="" group-title="",ARD HD (720p)
+https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Das_Erste_HD_Logo.svg/1280px-Das_Erste_HD_Logo.svg.png" tvg-country="DE" tvg-url="" group-title="",ARD HD (720p)
+https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD ONE HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/91128?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD ONE HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23778.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD Tagesschau 24 HD
+http://tvog.eu:8080/ibrahim/08.03.2020/137350?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_3660_av-p.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD-alpha
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8?checkedby:iptvcat.com&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD-alpha
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8&checkedby?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/1200px-ARD_alpha.svg.png" group-title="Undefined",ARD-alpha
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/1200px-ARD_alpha.svg.png" group-title="Undefined",ARD-alpha
+http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD-alpha
+http://tvpremiumhd.club/lista-gratuita/224502/on/live.php?id=livestreams.br.de/i/bralpha_germany@119899/master.m3u8&checkedby:iptvcat.com
+#EXTINF:0,ARD-alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 tvg-name=ARD-alpha tvg-id=ARD-alpha.de tvg-logo="http://logos.zattic.com/images/channels/logos/e96fafec01ec632f9b38/black/84x48.png" group-title="Deutschland",ARD-alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+#EXTINF:-1 tvg-name="ARD-alpha IPTV" tvg-id="ARD-alpha.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha IPTV
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/index_1_av-p.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARD-ALPHA-HD
+http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/28217?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARTE
+http://panel.restpremium.cf:8080/serverbr/0392332904/72701?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name=ARTE tvg-id="ARTE.de" tvg-logo="http://logos.zattic.com/images/channels/logos/865aac6dd62f5bf74ebc/black/84x48.png" group-title="Deutschland",ARTE
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARTE 4K+
+http://panel.restpremium.cf:8080/serverbr/0392332904/72706?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Arte FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/136597?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Arte FHD
+http://ip.sltv.be:8080/hasan1/1hasan/132826?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Arte HD
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/312?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARTE HD
+http://195.181.161.119:80/k6CFPu0MKu/7xk0jQLl3A/6106?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Arte HD
+http://ip.sltv.be:8080/hasan1/1hasan/3458?checkedby:iptvcat.com
+#EXTINF:0,Arte HD
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+#EXTINF:0,Arte HD
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Arte HD (DE)
+http://uiptv.dyndns.tv:8000/Germany1/Germany1/1134?checkedby:iptvcat.com
+#EXTINF:-1,ARTE HD DE
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67441
+#EXTINF:-1 tvg-name="ARTE IPTV" tvg-id="ARTE.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE IPTV
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ARTE TV
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23768.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="BR Fernsehen Nord HD" tvg-id="BR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Nord HD
+https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8
+#EXTINF:-1 tvg-name="BR Fernsehen Süd HD" tvg-id="BR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Fernsehen Süd HD
+https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/index_1_av-p.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAS ERSTE
+http://rv.imax.re:80/5124037472/1572081885/83202?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Undefined",Das Erste
+https://mcdn.daserste.de/daserste/de/profile1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="Undefined",Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAS ERSTE
+http://tvpremiumhd.club/lista-gratuita/224502/on/lives.php?id=mcdn.daserste.de/daserste/de/profile1/index.ts&checkedby:iptvcat.com
+#EXTINF:-1,Das Erste
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67435
+#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="Das Erste DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" tvg-country="DE" tvg-url="" group-title="German",Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="Das Erste DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" tvg-country="DE" tvg-url="" group-title="German",Das Erste
+https://mcdn.daserste.de/daserste/de/profile1/index.m3u8
+#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="Das Erste DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="",Das Erste
+https://daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="Das Erste DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="",Das Erste
+https://daserstehdint-lh.akamaihd.net/i/daserstehd_int@629195/index_3776_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",Das Erste
+https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
+#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="Das Erste DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="",Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-id="Das Erste DE" tvg-name="Das Erste DE" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="",Das Erste
+https://mcdn.daserste.de/daserste/de/profile1/index.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAS ERSTE (1+)
+http://tvpremiumhd.club/lista-gratuita/224502/on/live.php?id=daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.ts&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAS ERSTE 4K+
+http://panel.restpremium.cf:8080/serverbr/0392332904/72713?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master_3744.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAS ERSTE HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23764.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Das Erste HD
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/267?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Das Erste HD
+http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/28103?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master_3744.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Das Erste HD
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png" group-title="Deutschland",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DAS ERSTE HD (ARD)
+http://rv.imax.re:80/5124037472/1572081885/81630?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="Das Erste IPTV" tvg-id="ARD.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste IPTV
+https://mcdn.daserste.de/daserste/de/master_3744.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Das-Erste-HD
+http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/28292?checkedby:iptvcat.com
+#EXTINF:-1,DE H265 | DAS ERSTE HEVC
+http://nomorecable.xyz:80/delano/delano/104302
+http://nomorecable.xyz:80/delano/delano/104339
+#EXTINF:-1,DE H265 | DMAX HEVC
+http://nomorecable.xyz:80/delano/delano/104340
+#EXTINF:-1,DE H265 | Kabel Eins HEVC
+http://nomorecable.xyz:80/delano/delano/104309
+#EXTINF:-1,DE H265 | n-tv HEVC
+http://nomorecable.xyz:80/delano/delano/104342
+#EXTINF:-1,DE H265 | N24 DOKU HEVC
+http://nomorecable.xyz:80/delano/delano/104341
+#EXTINF:-1,DE H265 | N24 HEVC
+http://nomorecable.xyz:80/delano/delano/104343
+#EXTINF:-1,DE H265 | Nat Geo HEVC
+http://nomorecable.xyz:80/delano/delano/104337
+#EXTINF:-1,DE H265 | Nat Geo Wild HEVC
+http://nomorecable.xyz:80/delano/delano/104336
+#EXTINF:-1,DE H265 | SAT.1 HEVC
+http://nomorecable.xyz:80/delano/delano/104307
+#EXTINF:-1,DE H265 | VOX HEVC
+http://nomorecable.xyz:80/delano/delano/104308
+#EXTINF:-1,DE H265 | WELT HEVC
+http://nomorecable.xyz:80/delano/delano/104346
+#EXTINF:-1,DE H265 | ZDF HEVC
+http://nomorecable.xyz:80/delano/delano/104303
+#EXTINF:-1,DE | ARD Alpha
+http://nomorecable.xyz:80/delano/delano/109166
+#EXTINF:-1,DE | ARD Alpha
+http://nomorecable.xyz:80/delano/delano/109166
+#EXTINF:-1,DE | ARTE
+http://nomorecable.xyz:80/delano/delano/17208
+#EXTINF:-1,DE | ARTE
+http://nomorecable.xyz:80/delano/delano/17208
+#EXTINF:-1,DE | DAS ERSTE
+http://nomorecable.xyz:80/delano/delano/17196
+#EXTINF:-1,DE | DAS ERSTE
+http://nomorecable.xyz:80/delano/delano/17196
+#EXTINF:-1,DE | DAS ERSTE
+http://nomorecable.xyz:80/delano/delano/17196
+#EXTINF:-1,DE | Das Erste HD
+http://nomorecable.xyz:80/delano/delano/74869
+#EXTINF:-1,DE | Das Erste HD
+http://nomorecable.xyz:80/delano/delano/74869
+#EXTINF:-1,DE | Das Erste HD
+http://nomorecable.xyz:80/delano/delano/74869
+#EXTINF:-1,DE | Das Erste HD
+http://nomorecable.xyz:80/delano/delano/74869
+#EXTINF:-1,DE | DELUXE MUSIC
+http://nomorecable.xyz:80/delano/delano/17350
+#EXTINF:-1,DE | DELUXE MUSIC
+http://nomorecable.xyz:80/delano/delano/17350
+#EXTINF:-1,DE | DMAX
+http://nomorecable.xyz:80/delano/delano/17270
+#EXTINF:-1,DE | DMAX
+http://nomorecable.xyz:80/delano/delano/17270
+#EXTINF:-1,DE | HR
+http://nomorecable.xyz:80/delano/delano/85221
+#EXTINF:-1,DE | KABEL EINS
+http://nomorecable.xyz:80/delano/delano/17213
+#EXTINF:-1,DE | KABEL EINS
+http://nomorecable.xyz:80/delano/delano/17213
+#EXTINF:-1,DE | KABEL EINS
+http://nomorecable.xyz:80/delano/delano/17222
+#EXTINF:-1,DE | KABEL EINS
+http://nomorecable.xyz:80/delano/delano/17213
+#EXTINF:-1,DE | KIKA
+http://nomorecable.xyz:80/delano/delano/17244
+#EXTINF:-1,DE | KIKA
+http://nomorecable.xyz:80/delano/delano/17244
+#EXTINF:-1,DE | KIKA
+http://nomorecable.xyz:80/delano/delano/17244
+#EXTINF:-1,DE | N-TV
+http://nomorecable.xyz:80/delano/delano/17351
+#EXTINF:-1,DE | N-TV
+http://nomorecable.xyz:80/delano/delano/17351
+#EXTINF:-1,DE | N-TV
+http://nomorecable.xyz:80/delano/delano/17351
+#EXTINF:-1,DE | N-TV
+http://nomorecable.xyz:80/delano/delano/17351
+#EXTINF:-1,DE | N24 Doku
+http://nomorecable.xyz:80/delano/delano/17216
+#EXTINF:-1,DE | N24 Doku
+http://nomorecable.xyz:80/delano/delano/17216
+#EXTINF:-1,DE | N24 Doku
+http://nomorecable.xyz:80/delano/delano/17216
+#EXTINF:-1,DE | N24 Doku
+http://nomorecable.xyz:80/delano/delano/17216
+#EXTINF:-1,DE | NAT GEO WILD
+http://nomorecable.xyz:80/delano/delano/17265
+#EXTINF:-1,DE | NAT GEO WILD
+http://nomorecable.xyz:80/delano/delano/17265
+#EXTINF:-1,DE | NAT GEO WILD
+http://nomorecable.xyz:80/delano/delano/17265
+#EXTINF:-1,DE | NATIONAL GEOGRAPHIC
+http://nomorecable.xyz:80/delano/delano/17264
+#EXTINF:-1,DE | NATIONAL GEOGRAPHIC
+http://nomorecable.xyz:80/delano/delano/17264
+#EXTINF:-1,DE | NATIONAL GEOGRAPHIC
+http://nomorecable.xyz:80/delano/delano/17264
+#EXTINF:-1,DE | NDR HD+
+http://nomorecable.xyz:80/delano/delano/17217
+#EXTINF:-1,DE | NDR HD+
+http://nomorecable.xyz:80/delano/delano/17217
+#EXTINF:-1,DE | NDR HD+
+http://nomorecable.xyz:80/delano/delano/17217
+#EXTINF:-1,DE | NDR HD+
+http://nomorecable.xyz:80/delano/delano/17217
+#EXTINF:-1,DE | NTV
+http://nomorecable.xyz:80/delano/delano/17219
+#EXTINF:-1,DE | NTV
+http://nomorecable.xyz:80/delano/delano/17219
+#EXTINF:-1,DE | NTV HD
+http://nomorecable.xyz:80/delano/delano/79713
+#EXTINF:-1,DE | NTV HD
+http://nomorecable.xyz:80/delano/delano/79713
+#EXTINF:-1,DE | PHOENIX
+http://nomorecable.xyz:80/delano/delano/17220
+#EXTINF:-1,DE | PHOENIX
+http://nomorecable.xyz:80/delano/delano/17220
+#EXTINF:-1,DE | PHOENIX
+http://nomorecable.xyz:80/delano/delano/17220
+#EXTINF:-1,DE | PRO 7
+http://nomorecable.xyz:80/delano/delano/17326
+#EXTINF:-1,DE | PRO 7
+http://nomorecable.xyz:80/delano/delano/17326
+#EXTINF:-1,DE | PRO 7
+http://nomorecable.xyz:80/delano/delano/17326
+#EXTINF:-1,DE | PROSIEBEN
+http://nomorecable.xyz:80/delano/delano/17227
+#EXTINF:-1,DE | PROSIEBEN
+http://nomorecable.xyz:80/delano/delano/17227
+#EXTINF:-1,DE | PROSIEBEN
+http://nomorecable.xyz:80/delano/delano/17227
+#EXTINF:-1,DE | RTL 2
+http://nomorecable.xyz:80/delano/delano/17231
+#EXTINF:-1,DE | RTL 2
+http://nomorecable.xyz:80/delano/delano/17231
+#EXTINF:-1,DE | RTL 2
+http://nomorecable.xyz:80/delano/delano/17332
+#EXTINF:-1,DE | RTL 2
+http://nomorecable.xyz:80/delano/delano/17231
+#EXTINF:-1,DE | RTL NITRO FHD
+http://nomorecable.xyz:80/delano/delano/17237
+#EXTINF:-1,DE | SAT 1 4K+
+http://nomorecable.xyz:80/delano/delano/17204
+#EXTINF:-1,DE | SAT 1 4K+
+http://nomorecable.xyz:80/delano/delano/17255
+#EXTINF:-1,DE | Tagesschau 24
+http://nomorecable.xyz:80/delano/delano/109169
+#EXTINF:-1,DE | Tagesschau 24
+http://nomorecable.xyz:80/delano/delano/109169
+#EXTINF:-1,DE | VOX
+http://nomorecable.xyz:80/delano/delano/17200
+#EXTINF:-1,DE | VOX
+http://nomorecable.xyz:80/delano/delano/17200
+#EXTINF:-1,DE | WDR DORDTMUND
+http://nomorecable.xyz:80/delano/delano/115666
+#EXTINF:-1,DE | WDR HD+
+http://nomorecable.xyz:80/delano/delano/17201
+#EXTINF:-1,DE | WDR HD+
+http://nomorecable.xyz:80/delano/delano/17201
+#EXTINF:-1,DE | WELT
+http://nomorecable.xyz:80/delano/delano/17355
+#EXTINF:-1,DE | ZDF HD
+http://nomorecable.xyz:80/delano/delano/72655
+#EXTINF:-1,DE | ZDF HD
+http://nomorecable.xyz:80/delano/delano/72655
+#EXTINF:-1,DE | ZDF HD
+http://nomorecable.xyz:80/delano/delano/72655
+#EXTINF:-1,DE | ZDF HD
+http://nomorecable.xyz:80/delano/delano/72655
+#EXTINF:-1,DE | ZDF INFO
+http://nomorecable.xyz:80/delano/delano/17199
+#EXTINF:-1,DE | ZDF INFO
+http://nomorecable.xyz:80/delano/delano/17199
+#EXTINF:-1,DE | ZDF INFO
+http://nomorecable.xyz:80/delano/delano/17199
+#EXTINF:-1,DE | ZDF INFO HD
+http://nomorecable.xyz:80/delano/delano/56386
+#EXTINF:-1,DE | ZDF INFO HD
+http://nomorecable.xyz:80/delano/delano/56386
+#EXTINF:-1,DE | ZDF INFO HD
+http://nomorecable.xyz:80/delano/delano/56386
+#EXTINF:-1,DE | ZDF NEO
+http://nomorecable.xyz:80/delano/delano/17324
+#EXTINF:-1,DE | ZDF NEO
+http://nomorecable.xyz:80/delano/delano/17324
+#EXTINF:-1,DE | ZDF NEO
+http://nomorecable.xyz:80/delano/delano/17324
+#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",DE-HR-Fernsehen+
+http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",DE-tagesschau24+
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",DE-tagesschau24+
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,DE: 3SAT
+http://185.71.64.167:80/307216011114/307216011114/83200
+#EXTINF:-1,DE: ARD HD
+http://185.71.64.167:80/307216011114/307216011114/83199
+#EXTINF:-1,DE: ARTE HD
+http://185.71.64.167:80/307216011114/307216011114/83201
+#EXTINF:-1,DE: DAS ERSTE HD
+http://185.71.64.167:80/307216011114/307216011114/83203
+#EXTINF:-1,DE: DMAX HD
+http://185.71.64.167:80/307216011114/307216011114/83176
+#EXTINF:-1,DE: EUROSPORT 1 HD
+http://185.71.64.167:80/307216011114/307216011114/83157
+#EXTINF:-1,DE: EUROSPORT 2 HD
+http://185.71.64.167:80/307216011114/307216011114/83156
+#EXTINF:-1,DE: KABEL EINS HD
+http://185.71.64.167:80/307216011114/307216011114/83179
+#EXTINF:-1,DE: KIKA
+http://185.71.64.167:80/307216011114/307216011114/83108
+#EXTINF:-1,DE: N-TV HD
+http://185.71.64.167:80/307216011114/307216011114/83102
+#EXTINF:-1,DE: N24
+http://185.71.64.167:80/307216011114/307216011114/83069
+#EXTINF:-1,DE: ONE 1
+http://185.71.64.167:80/307216011114/307216011114/83070
+#EXTINF:-1,DE: PHOENIX HD
+http://185.71.64.167:80/307216011114/307216011114/83180
+#EXTINF:-1,DE: PROSIEBEN HD
+http://185.71.64.167:80/307216011114/307216011114/83188
+#EXTINF:-1,DE: RTL HD
+http://185.71.64.167:80/307216011114/307216011114/83194
+#EXTINF:-1,DE: RTL2
+http://185.71.64.167:80/307216011114/307216011114/83191
+#EXTINF:-1,DE: SAT.1 HD
+http://185.71.64.167:80/307216011114/307216011114/83185
+#EXTINF:-1,DE: SUPER RTL
+http://185.71.64.167:80/307216011114/307216011114/83111
+#EXTINF:-1,DE: SWR FERNSEHEN BW
+http://185.71.64.167:80/307216011114/307216011114/83118
+#EXTINF:-1,DE: VOX HD
+http://185.71.64.167:80/307216011114/307216011114/83182
+#EXTINF:-1,DE: WDR HD DUISBURG
+http://185.71.64.167:80/307216011114/307216011114/83115
+#EXTINF:-1,DE: WELT HD
+http://185.71.64.167:80/307216011114/307216011114/83099
+#EXTINF:-1,DE: ZDF HD
+http://185.71.64.167:80/307216011114/307216011114/83198
+#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",de:BR HD
+https://br_hdslive-f.akamaihd.net/i/bfssued_germany@119890/index_3776_av-p.m3u8?
+#EXTINF:0 tvg-id="ext" group-title="DEUTSCH",de:HR
+http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8
+#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-id="DeLuxeMusic.de" group-title="Musik" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png",DELUXE MUSIC
+http://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Deluxe Music" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/ZX8MPbr.png" group-title="Music",Deluxe Music
+http://streaming-02.mivitec.net/live/smil:test.smil/chunklist_w1073861416_b879931_slDE.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DELUXE MUSIC FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/18581?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Deluxe Music FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/137307?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DELUXE MUSIC HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/18580?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DELUXE-MUSIC-HD
+http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/28211?checkedby:iptvcat.com
+#EXTINF:-1,DE| 3 SAT
+http://rv.imax.re:80/5124037472/1572081885/81627
+#EXTINF:-1,DE| ARTE HD
+http://rv.imax.re:80/5124037472/1572081885/81628
+#EXTINF:-1,DE| DAS ERSTE HD (ARD)
+http://rv.imax.re:80/5124037472/1572081885/81630
+#EXTINF:-1,DE| DMAX HD
+http://rv.imax.re:80/5124037472/1572081885/81601
+#EXTINF:-1,DE| KABEL EINS HD
+http://rv.imax.re:80/5124037472/1572081885/81605
+#EXTINF:-1,DE| KIKA
+http://rv.imax.re:80/5124037472/1572081885/81493
+#EXTINF:-1,DE| N-TV HD
+http://rv.imax.re:80/5124037472/1572081885/81487
+#EXTINF:-1,DE| N24
+http://rv.imax.re:80/5124037472/1572081885/81486
+#EXTINF:-1,DE| PHOENIX HD
+http://rv.imax.re:80/5124037472/1572081885/81606
+#EXTINF:-1,DE| PROSIEBEN HD
+http://rv.imax.re:80/5124037472/1572081885/81614
+#EXTINF:-1,DE| RTL HD
+http://rv.imax.re:80/5124037472/1572081885/81621
+#EXTINF:-1,DE| RTL2
+http://rv.imax.re:80/5124037472/1572081885/81618
+#EXTINF:-1,DE| RTLII HD
+http://rv.imax.re:80/5124037472/1572081885/81620
+#EXTINF:-1,DE| SAT.1
+http://rv.imax.re:80/5124037472/1572081885/81612
+#EXTINF:-1,DE| SUPER RTL
+http://rv.imax.re:80/5124037472/1572081885/81496
+#EXTINF:-1,DE| SWR FERNSEHEN BW
+http://rv.imax.re:80/5124037472/1572081885/81504
+#EXTINF:-1,DE| VOX HD
+http://rv.imax.re:80/5124037472/1572081885/81608
+#EXTINF:-1,DE| WDR HD DUISBURG
+http://rv.imax.re:80/5124037472/1572081885/81501
+#EXTINF:-1,DE| WELT HD
+http://rv.imax.re:80/5124037472/1572081885/81483
+#EXTINF:-1,DE| ZDF HD
+http://rv.imax.re:80/5124037472/1572081885/81626
+#EXTINF:-1,DE|HEVC| 3SAT
+http://rv.imax.re:80/5124037472/1572081885/83200
+#EXTINF:-1,DE|HEVC| ARD HD
+http://rv.imax.re:80/5124037472/1572081885/83199
+#EXTINF:-1,DE|HEVC| ARTE HD
+http://rv.imax.re:80/5124037472/1572081885/83201
+#EXTINF:-1,DE|HEVC| DAS ERSTE HD
+http://rv.imax.re:80/5124037472/1572081885/83203
+#EXTINF:-1,DE|HEVC| DELUXE MUSIC HD
+http://rv.imax.re:80/5124037472/1572081885/83148
+#EXTINF:-1,DE|HEVC| KABEL EINS HD
+http://rv.imax.re:80/5124037472/1572081885/83179
+#EXTINF:-1,DE|HEVC| KIKA
+http://rv.imax.re:80/5124037472/1572081885/83108
+#EXTINF:-1,DE|HEVC| N-TV HD
+http://rv.imax.re:80/5124037472/1572081885/83102
+#EXTINF:-1,DE|HEVC| N24
+http://rv.imax.re:80/5124037472/1572081885/83069
+#EXTINF:-1,DE|HEVC| NDR FS NDS HD
+http://rv.imax.re:80/5124037472/1572081885/83128
+#EXTINF:-1,DE|HEVC| ONE 1
+http://rv.imax.re:80/5124037472/1572081885/83070
+#EXTINF:-1,DE|HEVC| PROSIEBEN HD
+http://rv.imax.re:80/5124037472/1572081885/83188
+#EXTINF:-1,DE|HEVC| RTL HD
+http://rv.imax.re:80/5124037472/1572081885/83194
+#EXTINF:-1,DE|HEVC| RTL2
+http://rv.imax.re:80/5124037472/1572081885/83191
+#EXTINF:-1,DE|HEVC| SAT.1 HD
+http://rv.imax.re:80/5124037472/1572081885/83185
+#EXTINF:-1,DE|HEVC| SUPER RTL
+http://rv.imax.re:80/5124037472/1572081885/83111
+#EXTINF:-1,DE|HEVC| SWR FERNSEHEN BW
+http://rv.imax.re:80/5124037472/1572081885/83118
+#EXTINF:-1,DE|HEVC| VOX HD
+http://rv.imax.re:80/5124037472/1572081885/83182
+#EXTINF:-1,DE|HEVC| WDR HD DUISBURG
+http://rv.imax.re:80/5124037472/1572081885/83115
+#EXTINF:-1,DE|HEVC| WELT HD
+http://rv.imax.re:80/5124037472/1572081885/83099
+#EXTINF:-1,DE|HEVC| ZDF HD
+http://rv.imax.re:80/5124037472/1572081885/83198
+#EXTINF:-1,DMAX DE
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67445
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DMAX FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/137279?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Dmax HD
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/292?checkedby:iptvcat.com
+#EXTINF:-1,Germany: ARD
+https://derste247livede.akamaized.net/hls/live/658317/daserste_de/profile1/1.m3u8
+#EXTINF:-1,Germany: BR FERNSEHEN
+https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
+#EXTINF:-1,Germany: BR Fernsehen Germany
+http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
+#EXTINF:-1,Germany: BR Fernsehen Nord
+http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
+#EXTINF:-1,Germany: Das Erste
+https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
+#EXTINF:-1,Germany: Das Erste
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1,Germany: Das Erste
+https://mcdn.daserste.de/daserste/de/profile1/index.m3u8
+#EXTINF:-1,Germany: DMAX
+https://wer1.wertvlive.com/d4/video.m3u8
+#EXTINF:-1,Germany: Kabel Eins
+https://wer1.wertvlive.com/d5/video.m3u8
+#EXTINF:-1,Germany: NDR Fernsehen
+http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
+#EXTINF:-1,Germany: NDR Hamburg
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-b.m3u8?sd=10&rebase=on&id=
+#EXTINF:-1,Germany: NDR Hamburg
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+#EXTINF:-1,Germany: NDR Mecklenburg-Vorpommern
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-b.m3u8?sd=10&rebase=on&id=
+#EXTINF:-1,Germany: NDR Mecklenburg-Vorpommern
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
+#EXTINF:-1,Germany: NDR Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_1992_av-p.m3u8
+#EXTINF:-1,Germany: NDR Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
+#EXTINF:-1,Germany: NDR Schleswig-Holstein
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-b.m3u8?sd=10&rebase=on&id=
+#EXTINF:-1,Germany: NDR Schleswig-Holstein
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
+#EXTINF:-1,Germany: NRD Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-b.m3u8?sd=10&rebase=on&id=
+#EXTINF:-1,Germany: Pro7
+https://wer1.wertvlive.com/d1/video.m3u8
+#EXTINF:-1,Germany: Pro7 Maxx
+https://wer11.wertvlive.com/w2/video.m3u8
+#EXTINF:-1,Germany: Sat1
+https://wer1.wertvlive.com/d6/video.m3u8
+#EXTINF:-1,Germany: tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:-1,Germany: tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Germany: tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1,Germany: tagesschau24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Germany: WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8
+#EXTINF:-1,Germany: WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8
+#EXTINF:-1,Germany: WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" group-title="",HR Fernsehen
+http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-b.m3u8
+#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" group-title="",HR Fernsehen
+http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" group-title="",HR Fernsehen
+http://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" tvg-country="DE" tvg-url="" group-title="",HR Fernsehen (1080p)
+https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" tvg-country="DE" tvg-url="" group-title="",HR Fernsehen (1080p)
+https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" tvg-country="DE" tvg-url="" group-title="",HR Fernsehen (1080p)
+#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" tvg-country="DE" tvg-url="" group-title="",HR HD (1080p)
+http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",hr-fernsehen
+http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-b.m3u8
+#EXTINF:0,hr-fernsehen
+http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-b.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",KABEL 1 DOKU
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/80009.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Kabel 1 FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/136592?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",KABEL 1 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/80008.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Kabel 1 HD
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/272?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",KABEL EINS DOKU HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/18634?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Kabel Eins Doku HD
+http://tvog.eu:8080/ibrahim/08.03.2020/136594?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Kabel Eins FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/136595?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",KABEL EINS HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/18635?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",KABEL EINS HD
+http://rv.imax.re:80/5124037472/1572081885/81605?checkedby:iptvcat.com
+#EXTINF:-1,Kabel1
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67447
+#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master_6848.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",KIKA
+http://nomorecable.xyz:80/delano/delano/17244?checkedby:iptvcat.com
+#EXTINF:-1,KIKA
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67362
+#EXTINF:0,KiKA
+https://kikageohls-i.akamaihd.net/hls/live/1006268/livetvkika_de/master_720.m3u8
+#EXTINF:-1 tvg-name="KiKa" tvg-id="kika.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKa
+https://kikahls-i.akamaihd.net/hls/live/1006267/livetvkika_ww/master.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",KIKA HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23658.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",KIKA HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/18570?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="MDR Sachsen HD" tvg-id="MDRSachsen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen HD
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_1280x720.m3u8
+#EXTINF:0,MDR Sachsen HD
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_1280x720.m3u8
+#EXTINF:-1 tvg-name="MDR Sachsen-Anhalt HD" tvg-id="MDRS-Anhalt.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen-Anhalt HD
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master_1280x720.m3u8
+#EXTINF:0,MDR Sachsen-Anhalt HD
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master_1280x720.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",N-TV
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23756.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,N-TV DE
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67443
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",N-TV FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/137344?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",N-TV FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/18647?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",N-TV HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/18646?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",N24
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23669.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",N24
+http://rv.imax.re:80/5124037472/1572081885/81486?checkedby:iptvcat.com
+#EXTINF:-1,N24  Doku DE
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67442
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",N24 Doku FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/137289?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",N24 FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/137345?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",N24 HD
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/303?checkedby:iptvcat.com
+#EXTINF:-1,Nat Geo DE
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67373
+#EXTINF:-1 tvg-id="NatGeo.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",NAT GEO DE
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/2158ccd2a8.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NAT GEO FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/137290?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",NAT GEO PEOPLE DE
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/ffb59554ab.m3u8
+#EXTINF:-1,Nat Geo Wild DE
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67372
+#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",NAT GEO WILD DE
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/8f160f87ae.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NAT GEO WILD FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/137292?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NAT GEO WILD HD
+http://rv.imax.re:80/5124037472/1572081885/81529?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NAT GEO WILD HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23680.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NATIONAL GEOGRAPHIC HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23682.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",National Geographic HD
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/304?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",National Geographic Wild HD
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/305?checkedby:iptvcat.com
+#EXTINF:-1,NDR
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67444
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/UMaAaCW.png" group-title="Undefined",NDR Fernsehen
+http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" tvg-country="DE" tvg-url="" group-title="German",NDR Fernsehen
+http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NDR FS NDS HD
+http://rv.imax.re:80/5124037472/1572081885/83128?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" group-title="",NDR Hamburg
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",NDR Hamburg
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-b.m3u8?sd=10&rebase=on&id=
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" tvg-country="DE" tvg-url="" group-title="German",NDR Hamburg
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",NDR Hamburg (720p)
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",NDR Hamburg (720p)
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+#EXTINF:-1 tvg-name="NDR Hamburg HD" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Hamburg HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",NDR Hamburg HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
+#EXTINF:0,NDR Hamburg HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",NDR Hamburg HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NDR HD
+http://tvog.eu:8080/ibrahim/08.03.2020/136693?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" tvg-country="DE" tvg-url="" group-title="German",NDR Mecklenburg-Vorpommern
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",NDR Mecklenburg-Vorpommern
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-b.m3u8?sd=10&rebase=on&id=
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" group-title="",NDR Mecklenburg-Vorpommern
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",NDR Mecklenburg-Vorpommern
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-b.m3u8?sd=10&rebase=on&id=
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" tvg-country="DE" tvg-url="" group-title="German",NDR Mecklenburg-Vorpommern
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",NDR Mecklenburg-Vorpommern (720p)
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",NDR Mecklenburg-Vorpommern (720p)
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
+#EXTINF:-1 tvg-name="NDR Mecklenburg-Vorpommern HD" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Mecklenburg-Vorpommern HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-p.m3u8
+#EXTINF:0,NDR Mecklenburg-Vorpommern HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="NDR NDS IPTV" tvg-id="ndr.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR NDS IPTV
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/UMaAaCW.png" group-title="Undefined",NDR Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_1992_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",NDR Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="http" group-title="Undefined",NDR Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8?set-segment-duration=responsive&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="https://i.imgur.com/UMaAaCW.png" group-title="Undefined",NDR Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" tvg-country="DE" tvg-url="" group-title="German",NDR Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_1992_av-p.m3u8
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" tvg-country="DE" tvg-url="" group-title="German",NDR Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" group-title="",NDR Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_1992_av-p.m3u8
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" group-title="",NDR Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name=NDR Niedersachsen tvg-id="ndr.de" tvg-logo="http://logos.zattic.com/images/channels/logos/29a7c6a23050e3820a3b/black/84x48.png" group-title="Deutschland",NDR Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8?set-segment-duration=responsive
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" tvg-country="DE" tvg-url="" group-title="German",NDR Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_1992_av-p.m3u8
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" tvg-country="DE" tvg-url="" group-title="German",NDR Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-name="NDR Niedersachsen HD" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Niedersachsen HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
+#EXTINF:0,NDR Niedersachsen HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" tvg-country="DE" tvg-url="" group-title="German",NDR Schleswig-Holstein
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",NDR Schleswig-Holstein
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-b.m3u8?sd=10&rebase=on&id=
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" group-title="",NDR Schleswig-Holstein
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",NDR Schleswig-Holstein
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-b.m3u8?sd=10&rebase=on&id=
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" tvg-country="DE" tvg-url="" group-title="German",NDR Schleswig-Holstein
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",NDR Schleswig-Holstein (720p)
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",NDR Schleswig-Holstein (720p)
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
+#EXTINF:-1 tvg-name="NDR Schleswig-Holstein HD" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR Schleswig-Holstein HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",NDR Schleswig-Holstein HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-p.m3u8
+#EXTINF:0,NDR Schleswig-Holstein HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",NDR Schleswig-Holstein HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",NRD Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-b.m3u8?sd=10&rebase=on&id=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",NRD Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-b.m3u8?sd=10&rebase=on&id=
+EXTINF:-1 tvg-id="tagesschau 24 DE" tvg-name="tagesschau 24 DE" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",One FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/136725?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_4_av-p.m3u8
+#EXTINF:0,one HD
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_4_av-p.m3u8
+#EXTINF:-1 tvg-name=ONE HD tvg-id="One.de" tvg-logo="http://logos.zattic.com/images/channels/logos/7490dbd81ca7b22871f5/black/84x48.png" group-title="Deutschland",ONE HD
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
+#EXTINF:-1 tvg-name="one IPTV" tvg-id="One.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one IPTV
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_5_av-p.m3u8
+#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+#EXTINF:-1,Phoenix
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67379
+#EXTINF:0,phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PHOENIX HD
+http://rv.imax.re:80/5124037472/1572081885/81606?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="phoenix IPTV" tvg-id="phoenix.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix IPTV
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",PRO 7
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/f263719ab8.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Pro 7 HD
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/282?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Pro7
+http://tvog.eu:8080/ibrahim/08.03.2020/136562?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",Pro7
+https://wer1.wertvlive.com/d1/video.m3u8
+EXTINF:-1 tvg-id="RTL.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",RTL
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/24ffa0d3a2.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PRO7 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/79998.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",ProSieben
+https://hdtvler1.etvserver.com/live_sd/depro7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjAgNjoyOTo1NiBQTSZoYXNoX3ZhbHVlPW1JZDJhZ2dYeTk4d1lPcXFrZmxCMXc9PSZ2YWxpZG1pbnV0ZXM9NQ==
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PROSIEBEN HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/18630?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",PROSIEBEN HD
+http://rv.imax.re:80/5124037472/1572081885/81614?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",ProSieben HD
+http://test.ottg.tv:8080/6594/video.m3u8?username=Pavelsn&password=17181926&token=0d1a168c2971f5f9a8d76d28d4951d07&ch_id=581&req_host=pkjX3BL
+#EXTINF:-1,ProSieben Maxx
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67353
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/79996.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,RTL
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67354
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",RTL
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/24ffa0d3a2.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL 2
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/79997.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,RTL 2
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67355
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",RTL 2
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/949cc0db89.m3u8
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",RTL 2
+http://stream-7b694ce7e.nmbs.top/m3u/Germany/949cc0db89.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL 2 FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/136572?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL 2 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23770.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL 2 HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/18619?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/136575?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL HD
+http://rv.imax.re:80/5124037472/1572081885/81621?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23774.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL HD 2
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/1959?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL II FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/136576?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL zwei FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/136585?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL-HD
+http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/28205?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTL2
+http://rv.imax.re:80/5124037472/1572081885/81618?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",RTL2
+https://hdtvler2.etvserver.com/live_sd/dertl2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjAgNzo1MDoxOCBQTSZoYXNoX3ZhbHVlPXlTN044dlp3dlJ0Y0RpUzFqTDNuNHc9PSZ2YWxpZG1pbnV0ZXM9NQ==
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",RTLII HD
+http://rv.imax.re:80/5124037472/1572081885/81620?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SAT 1 FHD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/18627?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Sat 1 FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/136559?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SAT 1 HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23775.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SAT 1 HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/18626?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SAT.1 HD
+http://rv.imax.re:80/5124037472/1572081885/81611?checkedby:iptvcat.com
+#EXTINF:-1,Sat1
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67448
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SAT1 FHD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/80000.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="SR Fernsehen" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",SR Fernsehen (720p)
+http://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SUPER RTL
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23765.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SUPER RTL
+http://rv.imax.re:80/5124037472/1572081885/81496?checkedby:iptvcat.com
+#EXTINF:-1,Super RTL
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67359
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Super RTL / TOGGO TV
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/281?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SUPER RTL FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/136781?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SUPER RTL HD
+http://jetstar.one:8080/instruktora1961cd/mjikdsep9c/18568?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SUPER-RTL-HD
+http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/28213?checkedby:iptvcat.com
+#EXTINF:-1,SWR
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67380
+#EXTINF:0,SWR Baden-Würrtemberg HD
+https://swrbwhls-i.akamaihd.net/hls/live/667638-b/swrbwd/master_3744.m3u8
+#EXTINF:-1 tvg-name="SWR Baden-Württemberg HD " tvg-id="SWR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Baden-Württemberg HD
+https://swrbwhls-i.akamaihd.net/hls/live/667638-b/swrbwd/master_3744.m3u8
+#EXTINF:-1 tvg-name=SWR BW tvg-id=SWR.de tvg-logo="http://logos.zattic.com/images/channels/logos/5edb77a08387f0b820f6/black/84x48.png" group-title="Deutschland",SWR BW
+https://swrbwhls-i.akamaihd.net/hls/live/667638-b/swrbwd/master.m3u8
+#EXTINF:-1 tvg-name="SWR BW IPTV" tvg-id="SWR.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR BW IPTV 
+https://swrbwhls-i.akamaihd.net/hls/live/667638-b/swrbwd/master.m3u8
+#EXTINF:-1 tvg-name="SWR Rheinland-Pfalz HD" tvg-id="SWR-rp.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR Rheinland-Pfalz HD
+https://swrrphls-i.akamaihd.net/hls/live/667639/swrrpd/master_3744.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Tageschau24
+http://tvog.eu:8080/ibrahim/08.03.2020/137347?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DE-tagesschau24+,tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",tagesschau 24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",DE-tagesschau24+,tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="tagesschau 24 DE" tvg-name="tagesschau 24 DE" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="tagesschau 24 DE" tvg-name="tagesschau 24 DE" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="tagesschau 24 DE" tvg-name="tagesschau 24 DE" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 tvg-id="tagesschau 24 DE" tvg-name="tagesschau 24 DE" tvg-language="German" tvg-logo="" group-title="",tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="tagesschau 24 DE" tvg-name="tagesschau 24 DE" tvg-language="German" tvg-logo="" group-title="",tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="tagesschau 24 DE" tvg-name="tagesschau 24 DE" tvg-language="German" tvg-logo="" group-title="",tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 tvg-id="tagesschau 24 DE" tvg-name="tagesschau 24 DE" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="tagesschau 24 DE" tvg-name="tagesschau 24 DE" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",tagesschau 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau 24" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",tagesschau 24 (720p)
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau 24" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",tagesschau 24 (720p)
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",TAGESSCHAU 24 HD
+http://tvog.eu:8080/ibrahim/08.03.2020/137349?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0,tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" group-title="",tagesschau24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-name=tagesschau24 tvg-id=tagesschau24.de tvg-logo="http://logos.zattic.com/images/channels/logos/6e02ccb8c56d7fc1fd21/black/84x48.png" group-title="Deutschland",tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",tagesschau24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",tagesschau24 HD
+http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/28145?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="tagesschau24 IPTV" tvg-id="tagesschau24.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24 IPTV
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",TAGESSCHAU24-HD
+http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/28216?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",TOGGO HD
+http://tvog.eu:8080/ibrahim/08.03.2020/137272?checkedby:iptvcat.com
+#EXTINF:-1,Toggo Plus
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67360
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",TOGGO PLUS FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/137273?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",VOX
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/23766.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",VOX
+http://rv.imax.re:80/5124037472/1572081885/81607?checkedby:iptvcat.com
+#EXTINF:-1,VOX
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67446
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",VOX HD
+http://rv.imax.re:80/5124037472/1572081885/81608?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",Vox HD
+http://bb123.pro:1453/samy19_20/g5woSDuZf6/285?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR Fernsehen" tvg-language="German" tvg-logo="https://i.imgur.com/0Vt9dtg.png" tvg-country="DE" tvg-url="" group-title="",WDR
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_3776.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="http://www.yilmaztv.com/logo/wdr.png" group-title="Undefined",WDR
+https://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="WDR DE" tvg-name="WDR DE" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="WDR DE" tvg-name="WDR DE" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:-1 tvg-id="WDR DE" tvg-name="WDR DE" tvg-language="German" tvg-logo="http://www.yilmaztv.com/logo/wdr.png" group-title="",WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8
+#EXTINF:-1 tvg-id="WDR DE" tvg-name="WDR DE" tvg-language="German" tvg-logo="" group-title="",WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="WDR DE" tvg-name="WDR DE" tvg-language="German" tvg-logo="" group-title="",WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:-1 tvg-id="WDR DE" tvg-name="WDR DE" tvg-language="German" tvg-logo="http://www.yilmaztv.com/logo/wdr.png" tvg-country="DE" tvg-url="" group-title="German",WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8
+#EXTINF:-1 tvg-id="WDR DE" tvg-name="WDR DE" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8
+#EXTINF:-1 tvg-id="WDR DE" tvg-name="WDR DE" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",WDR Fernsehen HD
+http://tvog.eu:8080/ibrahim/08.03.2020/136805?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",WDR Fernsehen HD
+http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/28150?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",WDR FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/136600?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master_3680.m3u8
+#EXTINF:0,WDR HD
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master_3680.m3u8
+#EXTINF:-1,WDR HD DE
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67439
+#EXTINF:-1 tvg-name="WDR IPTV" tvg-id="WDR.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR IPTV
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master_3680.m3u8
+#EXTINF:-1 tvg-name=WDR Koeln tvg-id=WDR.de tvg-logo="http://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/black/84x48.png" group-title="Deutschland",WDR Koeln
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
+#EXTINF:0,WELT
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8?dw=0
+#EXTINF:-1 tvg-name=WELT tvg-id=WELT.de tvg-logo="http://logos.zattic.com/images/channels/logos/2e460a3011ecd55bd3b9/black/84x48.png" group-title="Deutschland",WELT
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",WELT FHD
+http://tvog.eu:8080/ibrahim/08.03.2020/136807?checkedby:iptvcat.com
+#EXTINF:-1 tvg-name="WELT IPTV" tvg-id="n24.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT IPTV
+http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",ZDF HD
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/80002.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,ZDF HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67436
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" tvg-logo="http://logos.zattic.com/images/channels/logos/42a29350387ee5fda8fe/black/84x48.png" group-title="Deutschland",ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1,ZDF Info
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67437
+#EXTINF:-1 tvg-name="ZDF IPTV" tvg-id="ZDF.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF IPTV
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1,ZDF Neo HD
+http://80.82.77.130:80/mag00:1A:79:B1:2B:10/ZjBqmUlId3/67438
+#EXTINF:0,ZDFinfo
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name=ZDFinfo tvg-id="ZDFinfo.de" tvg-logo="http://logos.zattic.com/images/channels/logos/bfabafc809aa7b6db677/black/84x48.png" group-title="Deutschland",ZDFinfo
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo HD
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ZDFinfo IPTV" tvg-id="ZDFinfo.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo IPTV
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name=ZDFneo tvg-id="ZDFneo.de" tvg-logo="http://logos.zattic.com/images/channels/logos/de09c10b090491ef8806/black/84x48.png" group-title="Deutschland",ZDFneo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo HD
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ZDFneo IPTV" tvg-id="ZDFneo.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo IPTV
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+#EXTINF:-1,|DE| 3 SAT
+http://rv.therevenge.co:80/5172668317/7249490798/81627
+#EXTINF:-1,|DE| ARTE HD
+http://rv.therevenge.co:80/5172668317/7249490798/81628
+#EXTINF:-1,|DE| DAS ERSTE (ARD)
+http://rv.therevenge.co:80/5172668317/7249490798/81629
+#EXTINF:-1,|DE| DAS ERSTE HD (ARD)
+http://rv.therevenge.co:80/5172668317/7249490798/81630
+#EXTINF:-1,|DE| DMAX HD
+http://rv.therevenge.co:80/5172668317/7249490798/81601
+#EXTINF:-1,|DE| KABEL EINS HD
+http://rv.therevenge.co:80/5172668317/7249490798/81605
+#EXTINF:-1,|DE| NAT GEO HD
+http://rv.therevenge.co:80/5172668317/7249490798/81530
+#EXTINF:-1,|DE| NAT GEO WILD HD
+http://rv.therevenge.co:80/5172668317/7249490798/81529
+#EXTINF:-1,|DE| ONE 1 HD
+http://rv.therevenge.co:80/5172668317/7249490798/81600
+#EXTINF:-1,|DE| PROSIEBEN HD
+http://rv.therevenge.co:80/5172668317/7249490798/81614
+#EXTINF:-1,|DE| RTL HD
+http://rv.therevenge.co:80/5172668317/7249490798/81621
+#EXTINF:-1,|DE| RTL2
+http://rv.therevenge.co:80/5172668317/7249490798/81618
+#EXTINF:-1,|DE| RTLII HD
+http://rv.therevenge.co:80/5172668317/7249490798/81620
+#EXTINF:-1,|DE| SAT.1
+http://rv.therevenge.co:80/5172668317/7249490798/81612
+#EXTINF:-1,|DE| SAT.1 HD
+http://rv.therevenge.co:80/5172668317/7249490798/81611
+#EXTINF:-1,|DE| VOX
+http://rv.therevenge.co:80/5172668317/7249490798/81607
+#EXTINF:-1,|DE| VOX HD
+http://rv.therevenge.co:80/5172668317/7249490798/81608
+#EXTINF:-1,|DE| ZDF
+http://rv.therevenge.co:80/5172668317/7249490798/81624
+#EXTINF:-1,|DE| ZDF HD
+http://rv.therevenge.co:80/5172668317/7249490798/81626
+#EXTINF:-1,|DE| ZDF INFO
+http://rv.therevenge.co:80/5172668317/7249490798/81623
+#EXTINF:-1,|DE| ZDF NEO
+http://rv.therevenge.co:80/5172668317/7249490798/81622
+#EXTINF:-1,|DE|HEVC| 3SAT
+http://rv.therevenge.co:80/5172668317/7249490798/83200
+#EXTINF:-1,|DE|HEVC| ARD HD
+http://rv.therevenge.co:80/5172668317/7249490798/83199
+#EXTINF:-1,|DE|HEVC| ARTE HD
+http://rv.therevenge.co:80/5172668317/7249490798/83201
+#EXTINF:-1,|DE|HEVC| DAS ERSTE
+http://rv.therevenge.co:80/5172668317/7249490798/83202
+#EXTINF:-1,|DE|HEVC| DELUXE MUSIC HD
+http://rv.therevenge.co:80/5172668317/7249490798/83148
+#EXTINF:-1,|DE|HEVC| DMAX HD
+http://rv.therevenge.co:80/5172668317/7249490798/83176
+#EXTINF:-1,|DE|HEVC| N-TV HD
+http://rv.therevenge.co:80/5172668317/7249490798/83102
+#EXTINF:-1,|DE|HEVC| N24
+http://rv.therevenge.co:80/5172668317/7249490798/83069
+#EXTINF:-1,|DE|HEVC| NAT GEO HD
+http://rv.therevenge.co:80/5172668317/7249490798/83142
+#EXTINF:-1,|DE|HEVC| NAT GEO WILD HD
+http://rv.therevenge.co:80/5172668317/7249490798/83141
+#EXTINF:-1,|DE|HEVC| ONE 1
+http://rv.therevenge.co:80/5172668317/7249490798/83070
+#EXTINF:-1,|DE|HEVC| PHOENIX HD
+http://rv.therevenge.co:80/5172668317/7249490798/83180
+#EXTINF:-1,|DE|HEVC| PROSIEBEN HD
+http://rv.therevenge.co:80/5172668317/7249490798/83188
+#EXTINF:-1,|DE|HEVC| RTL HD
+http://rv.therevenge.co:80/5172668317/7249490798/83194
+#EXTINF:-1,|DE|HEVC| RTL2
+http://rv.therevenge.co:80/5172668317/7249490798/83191
+#EXTINF:-1,|DE|HEVC| RTLII HD
+http://rv.therevenge.co:80/5172668317/7249490798/83193
+#EXTINF:-1,|DE|HEVC| SWR FERNSEHEN BW
+http://rv.therevenge.co:80/5172668317/7249490798/83118
+#EXTINF:-1,|DE|HEVC| VOX
+http://rv.therevenge.co:80/5172668317/7249490798/83181
+#EXTINF:-1,|DE|HEVC| VOX HD
+http://rv.therevenge.co:80/5172668317/7249490798/83182
+#EXTINF:-1,|DE|HEVC| WELT HD
+http://rv.therevenge.co:80/5172668317/7249490798/83099
+#EXTINF:-1,|DE|HEVC| ZDF
+http://rv.therevenge.co:80/5172668317/7249490798/83197
+#EXTINF:-1,|DE|HEVC| ZDF HD
+http://rv.therevenge.co:80/5172668317/7249490798/83198
+#EXTINF:-1,|DE|HEVC| ZDF NEO
+http://rv.therevenge.co:80/5172668317/7249490798/83195
